@@ -24,3 +24,6 @@ https://singjupost.com/elon-musk-interview-2017-the-future-the-world-technology-
 
 cnbc:
 https://www.cnbc.com/2014/06/18/first-on-cnbc-cnbc-transcript-spacex-ceo-elon-musk-speaks-with-cnbcs-closing-bell.html
+
+insider:
+https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy
