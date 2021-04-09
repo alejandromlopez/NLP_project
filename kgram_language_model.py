@@ -69,7 +69,7 @@ if __name__ == '__main__':
    
     #print("text")
     #print(text)
-    model = LanguageModel(text, 2, 1)
+    model = LanguageModel(text, 3, 2)
     
     #print(list(model.condfd))
     
